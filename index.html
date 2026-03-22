@@ -238,7 +238,7 @@
 
   <!-- Option 1 -->
   <div class="card">
-    <div class="card-header">หลักประกันเป็นที่อยู่อาศัย</div>
+    <div class="card-header">หลักประกันมีไว้เพื่ออยู่อาศัย</div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
       <li>พนักงานประจำ รายได้ 15,000 หรือ 30,000 หรือ 50,000 บาท</li>
@@ -255,12 +255,12 @@
         <div class="benefit-value">70% - 95%<br>ของราคาประเมิน</div>
       </div>
     </div>
-    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/products/homeloan/th/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%88%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-Th_110369.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
+    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/products/homeloan/th/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%88%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-Th_170369.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
   </div>
 
   <!-- Option 2 -->
   <div class="card">
-    <div class="card-header">หลักประกันไม่ได้เป็นที่อยู่อาศัย </div>
+    <div class="card-header">หลักประกันไม่ได้มีไว้เพื่ออยู่อาศัย </div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
       <li>พนักงานประจำ รายได้ > 15,000 บาท</li>
@@ -277,7 +277,7 @@
         <div class="benefit-value">50% - 70%<br>ของราคาประเมิน</div>
       </div>
     </div>
-    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/products/homeloan/th/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%9E%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%9E%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B5%E0%B9%89-Th_110369.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
+    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/products/homeloan/th/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%88%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-Th_170369.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
   </div>
 
     <a href="https://drive.google.com/file/d/1k4A5r43nACydxAjc0BF2BmU7DwRQQApm/view?usp=sharing" class="cta-btn">เอกสารประกอบการสมัคร</a>
