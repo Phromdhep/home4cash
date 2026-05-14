@@ -238,7 +238,7 @@
 
   <!-- Option 1 -->
   <div class="card">
-    <div class="card-header">หลักประกันมีไว้เพื่ออยู่อาศัย Mortgage power</div>
+    <div class="card-header">หลักประกันมีไว้เพื่ออยู่อาศัย<br>Mortgage power</div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
       <li>พนักงานประจำ รายได้ 15,000 - 50,000 บาท</li>
@@ -260,7 +260,7 @@
 
   <!-- Option 2 -->
   <div class="card">
-    <div class="card-header">หลักประกันไม่ได้มีไว้เพื่ออยู่อาศัย Property loan</div>
+    <div class="card-header">หลักประกันไม่ได้มีไว้เพื่ออยู่อาศัย<br>Property loan</div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
       <li>พนักงานประจำ รายได้ > 15,000 บาท</li>
