@@ -248,7 +248,7 @@
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
-        <div class="benefit-value">คงที่ปีแรก 3.99%<br>ต่อปี</div>
+        <div class="benefit-value">คงที่ปีแรก 3.99%</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
